@@ -1,6 +1,5 @@
 
-#include <bits/stdc++.h>
-using namespace std;
+
 
 void permute(string& str, int l, int r)
 {
